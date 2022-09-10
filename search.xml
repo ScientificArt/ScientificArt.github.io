@@ -22,9 +22,9 @@
       
         <tags>
             
-            <tag> 单片机 </tag>
-            
             <tag> DHT11 </tag>
+            
+            <tag> 单片机 </tag>
             
             <tag> STM32F103c8t6 </tag>
             
@@ -110,9 +110,9 @@
             
             <tag> linux </tag>
             
-            <tag> 软件开发 </tag>
-            
             <tag> ARM </tag>
+            
+            <tag> 软件开发 </tag>
             
             <tag> OV5640 </tag>
             
@@ -157,17 +157,17 @@
             
             <tag> linux </tag>
             
-            <tag> ARM </tag>
-            
-            <tag> GEC6818 </tag>
-            
             <tag> IIC通信 </tag>
             
             <tag> 串口通信 </tag>
             
             <tag> UDP通信 </tag>
             
+            <tag> ARM </tag>
+            
             <tag> PAJ7620U2 </tag>
+            
+            <tag> GEC6818 </tag>
             
             <tag> DHT11 </tag>
             
@@ -200,13 +200,13 @@
             
             <tag> linux </tag>
             
-            <tag> 软件开发 </tag>
-            
             <tag> ARM </tag>
             
-            <tag> 混杂设备驱动 </tag>
-            
             <tag> GEC6818 </tag>
+            
+            <tag> 软件开发 </tag>
+            
+            <tag> 混杂设备驱动 </tag>
             
         </tags>
       
